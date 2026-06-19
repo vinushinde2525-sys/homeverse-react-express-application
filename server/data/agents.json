@@ -1,0 +1,110 @@
+[
+  {
+    "id": "agent-001",
+    "name": "William Seklo",
+    "slug": "william-seklo",
+    "title": "Senior Estate Agent",
+    "avatar": "/assets/images/author.jpg",
+    "email": "william@homeverse.com",
+    "phone": "+1 (312) 555-0101",
+    "location": "Chicago, IL",
+    "bio": "With over 15 years of experience in the Chicago real estate market, William has helped hundreds of families find their dream homes. Specializing in residential properties across Lincoln Park, Lakeview, and Belmont Gardens.",
+    "specializations": ["Residential", "Luxury Rentals", "First-Time Buyers"],
+    "socialLinks": {
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "instagram": "https://instagram.com"
+    },
+    "stats": {
+      "propertiesSold": 143,
+      "yearsExperience": 15,
+      "happyClients": 280,
+      "awardsWon": 8
+    },
+    "rating": 4.9,
+    "reviewCount": 87,
+    "isAvailable": true,
+    "joinedDate": "2009-03-15"
+  },
+  {
+    "id": "agent-002",
+    "name": "Sarah Mitchell",
+    "slug": "sarah-mitchell",
+    "title": "Luxury Property Specialist",
+    "avatar": "/assets/images/author.jpg",
+    "email": "sarah@homeverse.com",
+    "phone": "+1 (212) 555-0202",
+    "location": "New York, NY",
+    "bio": "Sarah is New York's most decorated luxury property specialist, with an unmatched portfolio of high-end transactions across Manhattan and Brooklyn. Her white-glove approach and deep market knowledge have earned her a loyal base of high-net-worth clients.",
+    "specializations": ["Luxury Homes", "Investment Properties", "Relocation Services"],
+    "socialLinks": {
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "instagram": "https://instagram.com"
+    },
+    "stats": {
+      "propertiesSold": 218,
+      "yearsExperience": 12,
+      "happyClients": 390,
+      "awardsWon": 14
+    },
+    "rating": 4.8,
+    "reviewCount": 112,
+    "isAvailable": true,
+    "joinedDate": "2012-07-01"
+  },
+  {
+    "id": "agent-003",
+    "name": "Marcus Johnson",
+    "slug": "marcus-johnson",
+    "title": "Commercial & Residential Expert",
+    "avatar": "/assets/images/author.jpg",
+    "email": "marcus@homeverse.com",
+    "phone": "+1 (718) 555-0303",
+    "location": "Brooklyn, NY",
+    "bio": "Marcus brings a unique dual perspective as both a seasoned real estate agent and a certified property investor. His expertise spans commercial developments, luxury penthouses, and multi-family investments across the greater New York area.",
+    "specializations": ["Commercial Properties", "Penthouses", "Investment Analysis"],
+    "socialLinks": {
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "instagram": "https://instagram.com"
+    },
+    "stats": {
+      "propertiesSold": 176,
+      "yearsExperience": 10,
+      "happyClients": 245,
+      "awardsWon": 11
+    },
+    "rating": 4.7,
+    "reviewCount": 94,
+    "isAvailable": false,
+    "joinedDate": "2014-01-20"
+  },
+  {
+    "id": "agent-004",
+    "name": "Elena Rodriguez",
+    "slug": "elena-rodriguez",
+    "title": "Relocation Specialist",
+    "avatar": "/assets/images/author.jpg",
+    "email": "elena@homeverse.com",
+    "phone": "+1 (312) 555-0404",
+    "location": "Chicago, IL",
+    "bio": "Elena specializes in helping corporate clients and out-of-state buyers navigate the Chicago and NYC markets. Fluent in English, Spanish, and Portuguese, she is ideally positioned to serve an international clientele.",
+    "specializations": ["Relocation", "International Buyers", "Corporate Leasing"],
+    "socialLinks": {
+      "twitter": "https://twitter.com",
+      "linkedin": "https://linkedin.com",
+      "instagram": "https://instagram.com"
+    },
+    "stats": {
+      "propertiesSold": 98,
+      "yearsExperience": 7,
+      "happyClients": 180,
+      "awardsWon": 5
+    },
+    "rating": 4.9,
+    "reviewCount": 63,
+    "isAvailable": true,
+    "joinedDate": "2017-05-10"
+  }
+]

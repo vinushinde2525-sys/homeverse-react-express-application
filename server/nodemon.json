@@ -1,0 +1,6 @@
+{
+  "watch": ["server.js", "routes/", "controllers/", "middleware/"],
+  "ignore": ["data/", "node_modules/"],
+  "ext": "js,json",
+  "delay": 500
+}
