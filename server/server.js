@@ -35,16 +35,16 @@ app.use(helmet());
 
 // CORS
 app.use(
-    cors({
-        origin: [
-            "http://localhost:5173",
+cors({
 
-            // replace this after Netlify deployment
-            "https://your-netlify-app.netlify.app"
-        ],
+origin:[
+"http://localhost:5173",
+"https://statuesque-pasca-fd6143.netlify.app"
+],
 
-        credentials:true
-    })
+credentials:true
+
+})
 );
 
 
