@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:00c9a7&height=220&section=header&text=Homeverse&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Modern%20Full-Stack%20Real%20Estate%20%26%20Property%20Discovery%20Platform&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:00c9a7&height=220&section=header&text=Homeverse&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Modern%20Full-Stack%20Real%20Estate%20and%20Property%20Discovery%20Platform&descAlignY=60&descSize=18" width="100%" />
 
 <br/>
 
